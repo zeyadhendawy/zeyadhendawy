@@ -4,7 +4,7 @@
 📍 Cairo, Egypt  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeyad%20Ahmed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zeyad-ahmed-qa-engineer/)  
-[![Email](https://img.shields.io/badge/Email-usze155%40gmail.com-red?style=flat&logo=gmail)](mailto:zeyadhendawy17@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-zeyadhendawy17%40gmail.com-red?style=flat&logo=gmail)](mailto:zeyadhendawy17@gmail.com)  
 
 ---
 
@@ -70,4 +70,3 @@ Certified **Software Testing Engineer** with experience in **manual and automate
 ---
 
 🔍 Always open to challenging **QA roles** and collaboration on **testing frameworks & automation solutions**.  
-
