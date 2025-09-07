@@ -1,86 +1,79 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW82bmI1cHZwYnFuN3F0NXR4MzlhZ3B2ZzJhZ3ZpdmptMWh2YXlqaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300" alt="Software Testing Animation"/>
-</div>
+# Zeyad Ahmed  
 
-# 👋 Hi, I'm Zeyad Ahmed  
-
-🎯 **Certified Software QA Engineer**  
-📍 Cairo, Egypt  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeyad%20Ahmed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zeyad-ahmed-qa-engineer/)  
-[![Email](https://img.shields.io/badge/Email-zeyadhendawy17%40gmail.com-red?style=flat&logo=gmail)](mailto:zeyadhendawy17@gmail.com)  
+**Software QA Engineer**  
+📍 Cairo, Egypt | 📧 zeyadhendawy17@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/zeyad-ahmed-qa-engineer/)  
 
 ---
 
-## 🧑‍💻 Professional Summary  
-Certified **Software Testing Engineer** with experience in **manual and automated testing** across web, API, and mobile platforms.  
-Proficient in **Jira, Postman, Selenium, TestNG**, and well-versed in **SDLC, STLC, and Agile** methodologies.  
-Dedicated to improving software quality, reducing bugs, and ensuring excellent user experience.  
+## 👨‍💻 Who Am I?  
+I am a **Certified Software Testing Engineer** specialized in **Manual & Automation Testing** with hands-on experience in **Web, API, and Mobile Testing**.  
+I focus on delivering **bug-free, user-friendly products**, and I enjoy working within **Agile teams** to ensure continuous product improvement.  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠 Core Competencies  
 
-- **Testing Types**: Manual, Automation, API, Mobile, Regression, Smoke, Functional, Performance  
-- **Tools**: Jira, Postman, Selenium, Maven, TestNG  
-- **Programming**: Java, Python, C++, SQL, HTML, CSS  
-- **Concepts**: SDLC, STLC, Agile, Scrum, OOP, Data Structures, Databases  
+- **Quality Assurance**: Manual Testing · Automation · API Testing · Regression · Smoke · Functional Testing  
+- **Tools**: Jira · Postman · Selenium · Maven · TestNG  
+- **Programming**: Java · Python · C++ · SQL · HTML · CSS  
+- **Concepts**: SDLC · STLC · Agile · Scrum · OOP · Databases  
 
 ---
 
 ## 💼 Experience  
 
-**Junior Software QA Tester – Scandiweb** *(2024 – 2025)*  
-- Enhanced QA processes through regular reviews and improvements.  
+**Scandiweb** – *Junior Software QA Tester*  
+*(April 2024 – June 2025)*  
+
+- Improved QA processes with regular reviews and refinements.  
 - Validated requirements before release, reducing production issues.  
-- Collaborated with cross-functional teams for timely product delivery.  
-- Conducted pre-release validation & post-release monitoring.  
+- Supported smooth product launches with pre-release and post-release validation.  
+- Worked closely with developers & cross-functional teams to deliver quality products.  
 
 ---
 
-## 🚀 Projects  
+## 🚀 Highlight Project  
 
 ### 🌱 PlantCareHub – Plant Disease Prediction Web App  
-**Role:** QA Engineer | Manual & Automation Testing  
-**Tech Stack:** Selenium WebDriver · Java · TestNG · Postman · REST APIs · JIRA  
+**Role:** QA Engineer (Manual & Automation)  
+**Stack:** Selenium WebDriver · Java · TestNG · Postman · REST APIs · JIRA  
 
-✔ Designed & executed manual test cases (UI, functionality, user scenarios)  
-✔ Automated regression & smoke tests using **Selenium + TestNG**  
-✔ Performed API testing with **Postman** (data, predictions, feedback)  
-✔ Reported and tracked bugs in **JIRA**  
-✔ Delivered QA documentation (test plans, bug reports, final validation)  
+✔ Designed & executed comprehensive manual test cases  
+✔ Automated regression & smoke tests  
+✔ Performed API validation with Postman  
+✔ Reported and tracked bugs in JIRA  
+✔ Contributed to test plans, bug reports, and QA documentation  
 
 ---
 
-## 📚 Certifications & Education  
+## 📚 Education & Certifications  
 
 🎓 **Bachelor in Computer Science** – Ahram Canadian University  
 🎓 **AMIT Software Testing Diploma** (Oct 2024)  
 
-**Key Training:**  
+**Relevant Coursework:**  
+- SDLC & STLC  
 - Manual Testing with Jira  
-- API Testing using Postman  
+- API Testing with Postman  
 - Automation Frameworks (Selenium, Maven, TestNG)  
-- Database Testing & SQL  
-- Web Testing Automation  
+- SQL & Database Testing  
 
 ---
 
 ## 🌍 Languages  
-- 🇪🇬 Arabic – Native  
-- 🇬🇧 English – Professional  
+- **Arabic** – Native  
+- **English** – Professional  
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Overview  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=graywhite)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=graywhite)  
 
 ---
 
 ✨ *“Quality is never an accident; it is always the result of intelligent effort.”*  
+
 
 
